@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pkl
+*.pickle
+.ipynb_checkpoints/
+venv/
+.env
+
+# Outputs
+out/
+logs/
+
+# Data & media (DO NOT COMMIT)
+data/
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
