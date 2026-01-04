@@ -147,3 +147,5 @@ out/run1/
 - Calibration only needs to be repeated if the camera position or view changes
 - Poor tracer visibility, incorrect ROI, or bad homography points will degrade results
 - IMU input is optional and intended to improve robustness
+- Report detailing methedology and design is available in docs
+  
